@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Positive Matician</h1>
-- 👨‍💻 All of my projects are available at [http://positivematician.pythonanywhere.com/](http://positivematician.pythonanywhere.com/)
+<!-- - 👨‍💻 All of my projects are available at [http://positivematician.pythonanywhere.com/](http://positivematician.pythonanywhere.com/) -->
 
 - 💬 Ask me about **flask , python and linux**
 
