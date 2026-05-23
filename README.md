@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Final-year **B.Tech CSE** student at Kurukshetra University — SIET, Nilokheri.
-- 💻 Over 3 years of **Python** development, actively integrating robust backend practices with **Golang**.
+- 💻 Over 3 years of **Python** development, actively integrating robust backend practices with AI.
 - 🛠️ Building open-source tools with a focus on security, like my PyPI-published AES-256-GCM encrypted bridge.
 - 🧠 Developing end-to-end AI/ML and Voice Cloning pipelines (TTS, PyTorch, ONNX).
 - 🐧 Power user of **Arch Linux (EndeavourOS)**, heavily utilizing terminal automation and system optimization.
